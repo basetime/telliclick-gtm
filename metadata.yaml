@@ -1,0 +1,5 @@
+homepage: "https://www.avagate.com/"
+documentation: "https://github.com/basetime/telliclick-gtm"
+versions:
+  - sha:
+    changeNotes: Initial release
