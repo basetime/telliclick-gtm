@@ -21,7 +21,7 @@ ___INFO___
   ],
   "brand": {
     "id": "",
-    "displayName": "Telliclick by Avagate"
+    "displayName": "Avagate"
   },
   "description": "Log custom events, purchases, and more with Telliclick.",
   "containerContexts": [
